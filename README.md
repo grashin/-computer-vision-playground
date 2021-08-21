@@ -1,1 +1,3 @@
-# -computer-vision-playground
+# computer-vision-playground
+
+Some projects using opencv library.
